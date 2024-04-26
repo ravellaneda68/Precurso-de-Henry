@@ -1,2 +1,4 @@
 # Precurso-de-Henry
-Este es un repositorio de prueba en la preparación bootcamp Henry
+Este es un repositorio proyecto ejemplo de clonación desde github a mi escritorio
+
+Ramiro Avellaneda
